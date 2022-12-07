@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="나의리뷰" transform="matrix(1,0,0,1,-0.0978946,-1.77636e-15)">
+        <g transform="matrix(1,0,0,1,3.09789,3.89229)">
+            <path d="M12.84,20.65L18.16,20.65L17.785,21.027L16.045,22.782C16.045,22.782 16.045,22.782 16.045,22.782C15.964,22.863 15.768,22.95 15.5,22.95C15.234,22.95 15.035,22.863 14.955,22.782L14.955,22.782L13.215,21.027L12.84,20.65Z" style="fill:none;fill-rule:nonzero;stroke:rgb(55,55,55);stroke-width:0.7px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,3.09789,3.89229)">
+            <path d="M5.109,6.84L18.945,6.84M5.109,10.731L18.945,10.731M5.109,14.622L18.945,14.622" style="fill:none;fill-rule:nonzero;stroke:rgb(55,55,55);stroke-width:0.7px;stroke-linecap:round;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,3.09789,3.89229)">
+            <path d="M23.65,5C23.65,2.434 21.566,0.35 19,0.35L5,0.35C2.434,0.35 0.35,2.434 0.35,5L0.35,16C0.35,18.566 2.434,20.65 5,20.65L19,20.65C21.566,20.65 23.65,18.566 23.65,16L23.65,5Z" style="fill:none;stroke:rgb(55,55,55);stroke-width:0.7px;"/>
+        </g>
+    </g>
+</svg>

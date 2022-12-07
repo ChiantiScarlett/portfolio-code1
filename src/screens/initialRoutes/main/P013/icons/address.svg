@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="배송지">
+        <g transform="matrix(1,0,0,1,4,4.0292)">
+            <path d="M21.65,8.25C21.65,9.996 20.995,11.707 19.985,13.305C18.976,14.903 17.625,16.369 16.264,17.617C14.903,18.864 13.541,19.885 12.519,20.595C12.008,20.95 11.583,21.227 11.286,21.414C11.17,21.487 11.074,21.546 11,21.592C10.926,21.546 10.83,21.487 10.714,21.414C10.417,21.227 9.992,20.95 9.481,20.595C8.458,19.885 7.097,18.864 5.737,17.617C4.375,16.369 3.024,14.903 2.015,13.305C1.005,11.707 0.35,9.996 0.35,8.25C0.35,6.107 1.508,4.14 3.432,2.696C5.356,1.253 8.031,0.35 11,0.35C13.969,0.35 16.644,1.253 18.568,2.696C20.493,4.14 21.65,6.107 21.65,8.25Z" style="fill:none;fill-rule:nonzero;stroke:rgb(55,55,55);stroke-width:0.7px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,4,4.0292)">
+            <circle cx="11" cy="6" r="1" style="fill:rgb(55,55,55);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,4,4.0292)">
+            <path d="M0.5,8C3.833,11.667 12.7,16.8 21.5,8" style="fill:none;fill-rule:nonzero;stroke:rgb(55,55,55);stroke-width:0.7px;"/>
+        </g>
+    </g>
+</svg>

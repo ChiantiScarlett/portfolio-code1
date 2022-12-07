@@ -1,0 +1,67 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "commonjs",
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": "./src/",
+        "paths": {
+            "@app/*": [
+                "./app/*"
+            ],
+            "@api/*": [
+                "./api/*"
+            ],
+            "@common/*": [
+                "./common/*"
+            ],
+            "@containers/*": [
+                "./containers/*"
+            ],
+            "@components/*": [
+                "./components/*"
+            ],
+            "@helpers/*": [
+                "./helpers/*"
+            ],
+            "@services/*": [
+                "./services/*"
+            ],
+            "@views/*": [
+                "./views/*"
+            ],
+            "@screens/*": [
+                "./screens/*"
+            ],
+
+            "@core/*": [
+                "./core/*"
+            ],
+
+          "@functions/*": ["./functions/*"],
+          "@system/*": ["./system/*"],
+          "@configurations/*": ["./configurations/*"],
+          "@firebase/*": ["./firebase/*"],
+        },
+        "plugins": [
+            {
+              "name": "typescript-styled-plugin",
+              "lint": {
+                "validProperties": [
+                  "shadow-color",
+                  "shadow-opacity",
+                  "shadow-offset",
+                  "shadow-radius",
+                  "padding-horizontal",
+                  "padding-vertical",
+                  "margin-vertical",
+                  "margin-horizontal",
+                  "tint-color",
+                  "aspect-ratio",
+                  "elevation"
+                ]
+              }
+            }
+          ]
+    },
+    "exclude": ["src-backup/"]
+}

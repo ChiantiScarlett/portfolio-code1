@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="주문내역">
+        <g transform="matrix(1,0,0,1,2.99981,4.00009)">
+            <path d="M2.166,6.892L2.167,6.891C2.218,6.748 2.263,6.724 2.279,6.716C2.321,6.694 2.413,6.667 2.636,6.667L5.237,6.667L5.237,12.91L0.674,12.91C0.685,12.855 0.698,12.798 0.71,12.737C0.814,12.247 0.958,11.576 1.123,10.85C1.455,9.386 1.859,7.74 2.166,6.892Z" style="fill:none;fill-rule:nonzero;stroke:rgb(55,55,55);stroke-width:0.7px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,2.99981,4.00009)">
+            <path d="M0.555,12.91L0.555,18.112L23.446,18.112L23.446,0.424L5.237,0.424L5.237,12.39" style="fill:none;fill-rule:nonzero;stroke:rgb(55,55,55);stroke-width:0.7px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,2.99981,4.00009)">
+            <path d="M0.555,12.91L23.446,12.91" style="fill:none;fill-rule:nonzero;stroke:rgb(55,55,55);stroke-width:0.7px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,2.99981,4.00009)">
+            <path d="M22.214,18.455C22.214,20.179 20.816,21.576 19.092,21.576C17.369,21.576 15.971,20.179 15.971,18.455C15.971,16.73 17.369,15.333 19.092,15.333C20.816,15.333 22.214,16.73 22.214,18.455Z" style="fill:white;fill-rule:nonzero;stroke:rgb(55,55,55);stroke-width:0.7px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,2.99981,4.00009)">
+            <path d="M7.899,18.455C7.899,20.179 6.501,21.576 4.778,21.576C3.054,21.576 1.656,20.179 1.656,18.455C1.656,16.73 3.054,15.333 4.778,15.333C6.501,15.333 7.899,16.73 7.899,18.455Z" style="fill:white;fill-rule:nonzero;stroke:rgb(55,55,55);stroke-width:0.7px;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="도수표" transform="matrix(1,0,0,1,0,1.46596)">
+        <g transform="matrix(1,0,0,1,3,2.53381)">
+            <path d="M23,13.244C22.068,8.981 17.443,5.531 11.974,5.546C6.505,5.561 1.903,9.035 1,13.302C1.932,17.566 6.557,21.015 12.026,21C17.495,20.986 22.097,17.512 23,13.244Z" style="fill:none;stroke:rgb(55,55,55);stroke-width:0.7px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,3,2.53381)">
+            <path d="M12,21C15.866,21 19,17.947 19,14.182C19,10.416 15.866,7.363 12,7.363C8.134,7.363 5,10.416 5,14.182C5,17.947 8.134,21 12,21Z" style="fill:none;fill-rule:nonzero;stroke:rgb(55,55,55);stroke-width:0.7px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,3,2.53381)">
+            <path d="M12,15.546C13.105,15.546 14,14.731 14,13.728C14,12.724 13.105,11.909 12,11.909C10.895,11.909 10,12.724 10,13.728C10,14.731 10.895,15.546 12,15.546Z" style="fill:rgb(55,55,55);fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,3,2.53381)">
+            <path d="M4.275,2.357L5.728,5.528" style="fill:none;fill-rule:nonzero;stroke:rgb(55,55,55);stroke-width:0.7px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,3,2.53381)">
+            <path d="M20.328,2.357L18.876,5.528" style="fill:none;fill-rule:nonzero;stroke:rgb(55,55,55);stroke-width:0.7px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,3,2.53381)">
+            <path d="M12,1L12,4.469" style="fill:none;fill-rule:nonzero;stroke:rgb(55,55,55);stroke-width:0.7px;"/>
+        </g>
+    </g>
+</svg>
